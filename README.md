@@ -1,5 +1,2 @@
-## SwiftBook
-
-## Marko Petreski
 
 
